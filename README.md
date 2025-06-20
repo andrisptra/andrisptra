@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently study on **UDINUS**
+- 🔭 Currently an undergraduate student at **Dian Nuswantoro University (UDINUS)**, majoring in **Computer Science**
 - 🌱 I’m currently learning **C++**
